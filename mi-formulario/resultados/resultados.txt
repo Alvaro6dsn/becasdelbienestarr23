@@ -1,0 +1,14 @@
+Nombre Completo: dd
+Correo Electrónico: dd@gmail.com
+CURP: eeeeeeeeeeeeeeeeeeeeeee
+Teléfono: q
+Contraseña: 66776676767
+Nivel de Estudio: posgrado
+--------------------------
+Nombre Completo: gggg
+Correo Electrónico: ggfs@gmail.com
+CURP: fsfgsdfgsfgsfgs
+Teléfono: 123456789
+Contraseña: dfasdfasfda
+Nivel de Estudio: preparatoria
+--------------------------
